@@ -1,2 +1,3 @@
-# Some text
-# [About](./cozy)
+## Some text
+## [About](./cozy)
+## [Contact](./cozy)
